@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57728328b74004ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI 고민.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI 고민.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI 고민.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,11 +170,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c53ebe9eb5c122ae",
+  "active": "57728328b74004ed",
   "lastOpenFiles": [
+    "UI 고민.md",
+    "README.md",
     "Root",
     "Obsidian-Backup",
-    "UI 고민.md",
     "Drawing 2023-09-14 03.03.24.excalidraw.md",
     "URP 적용 후 일부 Renderer가 출력되지 않는 문제와 해결 방법.md",
     "출력 화면.png",
