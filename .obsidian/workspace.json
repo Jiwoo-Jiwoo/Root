@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "UI 고민.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "UI 고민.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "UI 고민.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "UI 고민.md"
               }
             }
           },
@@ -172,8 +172,8 @@
   },
   "active": "57728328b74004ed",
   "lastOpenFiles": [
-    "UI 고민.md",
     "README.md",
+    "UI 고민.md",
     "Root",
     "Obsidian-Backup",
     "Drawing 2023-09-14 03.03.24.excalidraw.md",
