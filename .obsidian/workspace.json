@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "41c409460269125e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "해야할 것.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2625426501493bd4",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI 문제 해결.md",
+                "file": "해야할 것.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI 문제 해결.md",
+                "file": "해야할 것.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI 문제 해결.md"
+                "file": "해야할 것.md"
               }
             }
           },
@@ -218,10 +230,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "548ac4923403bfde",
+  "active": "41c409460269125e",
   "lastOpenFiles": [
-    "UI.md",
+    "해야할 것.md",
     "UI 문제 해결.md",
+    "UI.md",
     "Mermaid 사용법.md",
     "UI 고민.md",
     "Class diagrams.md",
