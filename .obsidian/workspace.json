@@ -4,71 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54ac42b34613da30",
+        "id": "e72f39e8524f6be3",
         "type": "tabs",
         "children": [
           {
-            "id": "6a1fb33246eeaecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UI 고민.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57728328b74004ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UI 고민.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60aa714ca5ad0dc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f1a38b7fc3710fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "548ac4923403bfde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UI 문제 해결.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41c409460269125e",
+            "id": "c1176e6f99fddc23",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2625426501493bd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UI 고민.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,13 +157,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41c409460269125e",
+  "active": "c1176e6f99fddc23",
   "lastOpenFiles": [
-    "해야할 것.md",
-    "UI 문제 해결.md",
-    "UI.md",
-    "Mermaid 사용법.md",
     "UI 고민.md",
+    "UI.md",
+    "UI 문제 해결.md",
+    "해야할 것.md",
+    "Mermaid 사용법.md",
     "Class diagrams.md",
     "Excalidraw/Drawing 2023-09-14 21.18.10.excalidraw.md",
     "Excalidraw",
